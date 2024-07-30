@@ -3,7 +3,8 @@ from DarkNews import const
 from DarkNews import Cfourvec as Cfv
 from numpy.random import choice
 
-import importlib.resources as resources
+#import importlib.resources as resources
+import importlib_resources as resources
 
 
 ################## ROTATION FUNCTIONS ######################

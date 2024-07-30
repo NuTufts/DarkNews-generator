@@ -1,6 +1,7 @@
 import numpy as np
 import numpy.ma as ma
-import importlib.resources as resources
+#import importlib.resources as resources
+import importlib_resources as resources
 from itertools import islice
 from functools import partial
 
